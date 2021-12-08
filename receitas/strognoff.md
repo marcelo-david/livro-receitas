@@ -1,4 +1,4 @@
-##strognoff de franga#
+#strognoff de frango#
 **Negrito** _italico_
 
 **Ingredientes**
