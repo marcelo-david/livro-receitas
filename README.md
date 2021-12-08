@@ -1,7 +1,7 @@
 
-#Livro de receitas ;)
+<h1>Livro de receitas ;)</h1>
 
-Olá ! bem vindo ao nosso livro de receitas.
+_Olá ! bem vindo ao nosso livro de receitas._
 
  - strogonoff
  - PAVÊ
